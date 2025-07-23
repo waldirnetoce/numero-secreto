@@ -1,5 +1,5 @@
  alert('Boas-vindas ao jogo do número secreto')
- let chute = prompt('Escolha um número de 1 e 10')
+ let chute = prompt('Escolha um número de 1 e 100')
 
  let numeroSecreto = 4
 //se o chute for ugual numero secreto
